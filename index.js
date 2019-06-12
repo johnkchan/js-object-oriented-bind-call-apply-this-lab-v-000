@@ -2,3 +2,5 @@
 function justInvoke(fn) {
   
 }
+
+function setThi
